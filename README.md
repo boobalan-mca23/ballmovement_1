@@ -7,9 +7,12 @@
 
 *The move() function first checks if the ball is within the bounds of the screen. If it is, the function updates the ball's x and y position by adding the velocity to each position. The function then updates the ball's CSS top and left properties to reflect its new position.
 
-*If the ball is outside of the bounds of the screen, the move() function resets the ball's position to the top left corner of the screen.
-
 *The setInterval() function is used to call the move() function every 100 milliseconds. This will cause the ball to move smoothly across the screen.
-
 # Future Improvements
 This Project can be further enhanced by creating an animation like a boy bouncing the ball
+
+
+
+
+
+
