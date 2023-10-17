@@ -1,7 +1,7 @@
 ## SIMULATION BALL MOVEMENT
 Description:
 This HTML page displays a continuous bouncing red ball animation within a rectangular area, controlled by JavaScript using the setInterval function with a 500-millisecond interval.
-## Step to run the Project
+## How to Run Project
 Step 1: Save the HTML file with a .html extension.
 
 Step 2: Install the Live Server extension in Visual Studio Code, then click the "Go Live" button at the bottom right corner of the VSCode window to open a new browser window displaying the ball-moving animation.
